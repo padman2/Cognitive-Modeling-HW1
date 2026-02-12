@@ -1,6 +1,8 @@
 import numpy as np
 
 data = np.array([1, 2, 3, 4, 5])
-result = np.sum(data)
+sum_val = np.sum(data)
+std_val = np.std(data)
 
-print("Sum:", result)
+print("Sum:", sum_val)
+print("Std:", std_val)
