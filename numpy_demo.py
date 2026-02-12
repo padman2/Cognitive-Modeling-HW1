@@ -1,6 +1,6 @@
 import numpy as np
 
 data = np.array([1, 2, 3, 4, 5])
-result = np.mean(data)
+result = np.sum(data)
 
-print("Mean:", result)
+print("Sum:", result)
