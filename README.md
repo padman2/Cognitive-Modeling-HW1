@@ -1,4 +1,5 @@
-# Cognitive Modeling — Basic Intro Notes
+#<img width="2000" height="2000" alt="team-logo" src="https://github.com/user-attachments/assets/c6c0cfd5-c8ec-44e4-a17c-8748ec58431a" />
+ Cognitive Modeling — Basic Intro Notes
 
 ## Cognitive Modeling (Definition)
 Cognitive modeling is the use of mathematical and computational models to formally describe mental processes.
