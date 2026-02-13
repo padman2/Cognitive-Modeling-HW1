@@ -1,4 +1,7 @@
-<img width="1000" height="1000" alt="team-logo" src="https://github.com/user-attachments/assets/c6c0cfd5-c8ec-44e4-a17c-8748ec58431a" />
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/c6c0cfd5-c8ec-44e4-a17c-8748ec58431a" width="400"/>
+</p>
+
 # Cognitive Modeling — Basic Intro Notes
 
 ## Cognitive Modeling (Definition)
